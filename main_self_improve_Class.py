@@ -108,9 +108,9 @@ class GPT4AutoCoder:
                 self.save_generated_code(response, filename=update_filename)
                 print(f"\nAssistant: The improved code has been saved as '{update_filename}'.")
 
-# "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"
+# "<your_api_key>"
 if __name__ == "__main__":
-    api_key = "<your_api_key>"
+    api_key = "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"
     auto_coder = GPT4AutoCoder(api_key)
     auto_coder.run()
 
