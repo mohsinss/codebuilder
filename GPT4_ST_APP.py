@@ -21,7 +21,7 @@ with st.sidebar:
         "Choose GPT engine:",
         ("gpt-3.5-turbo", "gpt-4")
     )
-    # st.markdown("[![Foo](https://www.echohive.live/youtube.jpg)](http://google.com.au/)")
+    # t.markdown("[![Foo](https://www.echohive.live/youtube.jpg)](http://google.com.au/)")
     st.title("Watch the [Video](https://youtu.be/rBQrdEoSbhk)")
 
     st.title("Download the [Code](https://www.patreon.com/posts/basic-files-gpt-80551058?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&utm_content=join_link)")
